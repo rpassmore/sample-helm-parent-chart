@@ -6,7 +6,7 @@ portal:
   enabled: true
   image:    
     # Overrides the image tag whose default is the chart appVersion.
-    tag: ""
+    tag: dummy
 # Customer Management
 customer-management:
   enabled: true
