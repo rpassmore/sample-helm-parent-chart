@@ -1,0 +1,38 @@
+
+
+### Sub Charts Specific Values ###
+# Portal
+portal:
+  enabled: true
+  image:    
+    # Overrides the image tag whose default is the chart appVersion.
+    tag: ""
+# Customer Management
+customer-management:
+  enabled: true
+  image:    
+    # Overrides the image tag whose default is the chart appVersion.
+    tag: ""# Product Catalog
+product-catalog:
+  enabled: true
+  image:    
+    # Overrides the image tag whose default is the chart appVersion.
+    tag: ""
+# Order Management
+order-management:
+  enabled: true
+  image:    
+    # Overrides the image tag whose default is the chart appVersion.
+    tag: ""
+# Order History
+order-history:
+  enabled: true
+  image:    
+    # Overrides the image tag whose default is the chart appVersion.
+    tag: ""
+# Payment Solution
+payment-solution:
+  enabled: true
+  image:    
+    # Overrides the image tag whose default is the chart appVersion.
+    tag: ""
